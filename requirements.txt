@@ -1,0 +1,6 @@
+transformers>=5.20
+bitsandbytes>=0.50
+accelerate>=1.15
+huggingface_hub>=2.3
+safetensors>=0.8
+pyarrow>=17  # corpus.py only
